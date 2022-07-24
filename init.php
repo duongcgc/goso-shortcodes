@@ -9,7 +9,7 @@ Author URI: http://themeforest.net/user/gosodesign?ref=gosodesign
 */
 
 
-define( 'PENCI_SOLEDAD_SHORTCODE_PERFORMANCE', '4.9' );
+define( 'GOSO_AUTHOW_SHORTCODE_PERFORMANCE', '4.9' );
 
 /* ------------------------------------------------------- */
 /* Optimize Speed
